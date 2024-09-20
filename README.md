@@ -21,7 +21,7 @@ I'm **Kreesta**, a fullstack web/mobile developer who's always excited to turn c
 - 🌱 I’m always learning and currently diving deeper into **three.js** and **WebGL**.
 - 👯 I’m looking to collaborate on **open-source projects** or any fun development challenges!
 - 💬 Ask me about **fullstack development, mobile apps, or anything techy**.
-- 📫 How to reach me: Shoot me a message on [LinkedIn](https://www.linkedin.com/in/ebube-oguejiofor/) or ping me on [GitHub](https://github.com/Kreesta-r).
+- 📫 How to reach me: Shoot me a message on [LinkedIn](https://www.linkedin.com/in/ebubeoguejiofor/) or ping me on [GitHub](https://github.com/Kreesta-r).
 - 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: I code for work, and even when i'm not working, I code for fun!
 
